@@ -2,4 +2,4 @@
 <p>
 It is a classic snake game.
 </p>
-<a href="http://musicplayer.dx.am/index.php">musicplayer.dx.am/index.php</a>
+<a href="https://adnansites.000webhostapp.com/snakegame/">https://adnansites.000webhostapp.com/snakegame/</a>
